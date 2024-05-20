@@ -1,6 +1,4 @@
-Richard Ryan
-
-This is a photographer portfolio html template, made by codewithsadee.
+Neevan
 
 
 
@@ -99,17 +97,17 @@ Health & Wellnes.
 #---------- CATEGORY ----------#
 
 Hi. I’m
-Richard Ryan
+pavan
 
 A passionate
-photograher
+software
 who are working in this field for 
-last 10 years. 
+last 5 years. 
 I’m ready to give you my best.
 
 alt = signature
 
-alt = Riachard Ryan
+alt = pavan
 
 
 
